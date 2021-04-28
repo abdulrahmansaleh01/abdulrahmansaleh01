@@ -2,9 +2,9 @@
 
 <br>
 
-___📌 Pinned Repository___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmansaleh01&repo=flutter-memo-app&theme=react)](https://github.com/abdulrahmansaleh01/flutter-memo-app)  [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmansaleh01&repo=codeigniter-esurvey-akademik&theme=react)](https://github.com/abdulrahmansaleh01/codeigniter-esurvey-akademik)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmansaleh01&repo=flutter-memo-app&theme=react)](https://github.com/abdulrahmansaleh01/flutter-memo-app)  [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmansaleh01&repo=codeigniter-esurvey-akademik&theme=react)](https://github.com/abdulrahmansaleh01/codeigniter-esurvey-akademik)-->
 <!--
 <a href="https://github.com/abdulrahmansaleh01/flutter-memo-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmansaleh01&repo=flutter-memo-app&theme=react" />
@@ -14,7 +14,15 @@ ___📌 Pinned Repository___
 </a>
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=abdulrahmansaleh01&repo=laravel-ecommerce-mzid&theme=react)](https://github.com/abdulrahmansaleh01/laravel-ecommerce-mzid)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://facebook.com/elman72" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="el rahman" height="30" width="40" /></a>
+<a href="https://instagram.com/el.rahman_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="el.rahman_" height="30" width="40" /></a>
+<a href="https://discord.gg/mann#7352" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mann#7352" height="30" width="40" /></a>
+</p> 
+
+
 
 <!--
 <a href="https://github.com/abdulrahmansaleh01/laravel-ecommerce-mzid">
