@@ -2,9 +2,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://facebook.com/elman72" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="el rahman" height="30" width="40" /></a>
-<a href="https://instagram.com/el.rahman_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="el.rahman_" height="30" width="40" /></a>
-<a href="https://discord.gg/GUKrVSNbQ7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="mann#7352" height="30" width="40" /></a>
+<a href="https://facebook.com/elman72" target="_blank"><img align="center" src="https://img.icons8.com/color/50/000000/facebook-circled--v4.png" alt="el rahman" /></a>
+<a href="https://instagram.com/el.rahman_" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="el.rahman_" /></a>
+<a href="https://discord.gg/GUKrVSNbQ7" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="mann#7352" /></a>
+<a href="https://www.linkedin.com/in/abdul-rahman-saleh-714120217/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="mann#7352"/></a>
 </p> 
 
 <!--
