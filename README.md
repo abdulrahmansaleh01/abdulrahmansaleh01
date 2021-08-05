@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://facebook.com/elman72" target="_blank"><img align="center" src="https://img.icons8.com/color/50/000000/facebook-circled--v4.png" alt="el rahman" /></a>
 <a href="https://instagram.com/el.rahman_" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="el.rahman_" /></a>
-<a href="https://www.linkedin.com/in/abdul-rahman-saleh-714120217/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt=""/></a>
+<a href="https://www.linkedin.com/in/abdul-rahman-saleh-714120217/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt=""/></a>&nbsp;
 <a href="mailto:abdulrahmansaleh152@gmail.com?subject=Hello" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>&nbsp;
 <a href="https://discord.gg/GUKrVSNbQ7" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="mann#7352" /></a>
 </p> 
@@ -15,10 +15,12 @@
 
 
 - - - -
+<img align="right" src="https://user-images.githubusercontent.com/64578787/128322912-8489514b-c295-4ef5-97af-9ce848b6bd25.gif" width="485"/></a>
 
-<a><img src="https://github-readme-stats.vercel.app/api?username=elrahmaan&show_icons=true&theme=react&locale=en" width="420"/></a>
-&ensp;<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elrahmaan&layout=compact&theme=react" width="350"/></a>
-
+<p align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=elrahmaan&show_icons=true&theme=react&locale=en" width="400" ></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elrahmaan&layout=compact&theme=react" width="400"/></p>
+</p>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=elrahmaan&show_icons=true&theme=react&locale=en)](https://github-readme-stats.vercel.app/api?username=elrahmaan&show_icons=true&theme=dark&locale=en) &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elrahmaan&layout=compact&theme=react)](https://github.com/elrahmaan/github-readme-stats)
