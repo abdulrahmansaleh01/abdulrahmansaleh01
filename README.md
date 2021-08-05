@@ -7,10 +7,10 @@
 <p align="center">
 <a href="https://facebook.com/elman72" target="_blank"><img align="center" src="https://img.icons8.com/color/50/000000/facebook-circled--v4.png" alt="el rahman" /></a>
 <a href="https://instagram.com/el.rahman_" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="el.rahman_" /></a>
-<a href="https://www.linkedin.com/in/abdul-rahman-saleh-714120217/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt=""/></a>
-<a href="mailto:abdulrahmansaleh152@gmail.com?subject=Hello" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href="https://www.linkedin.com/in/abdul-rahman-saleh-714120217/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt=""/></a>
+<a href="mailto:abdulrahmansaleh152@gmail.com?subject=Hello" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>&nbsp;
 <a href="https://discord.gg/GUKrVSNbQ7" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="mann#7352" /></a>
-  </p> 
+</p> 
 <br>
 
 
