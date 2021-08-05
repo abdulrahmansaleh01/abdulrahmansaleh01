@@ -1,11 +1,18 @@
+### Hi 👋, I'm Abdul Rahman Saleh
+
+<img src="https://user-images.githubusercontent.com/64578787/128308039-6e03edc5-f519-493b-8cd3-0acae98f94e8.png" width="270"/>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=elrahmaan&show_icons=true&theme=react&locale=en)](https://github-readme-stats.vercel.app/api?username=elrahmaan&show_icons=true&theme=dark&locale=en) &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elrahmaan&layout=compact&theme=react)](https://github.com/elrahmaan/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://facebook.com/elman72" target="_blank"><img align="center" src="https://img.icons8.com/color/50/000000/facebook-circled--v4.png" alt="el rahman" /></a>
 <a href="https://instagram.com/el.rahman_" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="el.rahman_" /></a>
+<a href="https://www.linkedin.com/in/abdul-rahman-saleh-714120217/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt=""/></a>
+<a href="mailto:abdulrahmansaleh152@gmail.com?subject=Hello" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href="https://discord.gg/GUKrVSNbQ7" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="mann#7352" /></a>
-<a href="https://www.linkedin.com/in/abdul-rahman-saleh-714120217/" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="mann#7352"/></a>
+
 </p> 
 
 <!--
