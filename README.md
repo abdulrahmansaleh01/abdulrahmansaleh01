@@ -15,11 +15,11 @@
 
 
 - - - -
-<img align="right" src="https://user-images.githubusercontent.com/64578787/128322912-8489514b-c295-4ef5-97af-9ce848b6bd25.gif" width="485"/></a>
+<img align="right" src="https://user-images.githubusercontent.com/64578787/128322912-8489514b-c295-4ef5-97af-9ce848b6bd25.gif" width="433"/></a>
 
 <p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=elrahmaan&show_icons=true&theme=react&locale=en" width="400" ></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elrahmaan&layout=compact&theme=react" width="400"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=elrahmaan&show_icons=true&theme=react&locale=en" width="355" ></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elrahmaan&layout=compact&theme=react" width="355"/></p>
 </p>
 
 
