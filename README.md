@@ -2,7 +2,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/64578787/128308039-6e03edc5-f519-493b-8cd3-0acae98f94e8.png" width="280"/>
 <br>
   <h1 align="center"><i>Hi 👋, I'm Abdul Rahman Saleh</i></h1>
-  <h3 align="center"><i>" Learning from 'zero' to be a 'hero' "</i></h3>
+  <h3 align="center"><i>" Learning from 'cupu' to be a 'suhu' 🌱 "</i></h3>
   <p align="center">Connect with me:</p>
 <p align="center">
 <a href="https://facebook.com/elman72" target="_blank"><img align="center" src="https://img.icons8.com/color/50/000000/facebook-circled--v4.png" alt="el rahman" /></a>
