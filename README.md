@@ -1,7 +1,7 @@
 - - - -
 <img align="left" src="https://user-images.githubusercontent.com/64578787/128308039-6e03edc5-f519-493b-8cd3-0acae98f94e8.png" width="280"/>
 <br>
-  <h1 align="center"><i>Hi 👋, I'm Abdul Rahman Saleh</i></h1>
+  <h1 align="center"><i>Abdul Rahman Saleh 🚀</i></h1>
   <h3 align="center"><i>" Masih pemula kaka. Jangan dibully 👶"</i></h3>
   <p align="center">Connect with me:</p>
 <p align="center">
