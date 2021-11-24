@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/abdul-rahman-saleh-714120217/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt=""/></a>&nbsp;
 <a href="mailto:abdulrahmansaleh152@gmail.com?subject=Hello" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>&nbsp;
 <a href="https://discord.gg/GUKrVSNbQ7" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="mann#7352" /></a>
+<a href="https://twitter.com/elrahmaan_" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="elrahmaan_" /></a>
 </p> 
 <br>
 
