@@ -24,6 +24,9 @@
 </p>
 
 
+<p align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=elrahmaan&color=61dafb" width="120"/>
+</p>
 
 ## Contributions
 <img src="https://github.com/elrahmaan/elrahmaan/blob/output/github-contribution-grid-snake.svg">
